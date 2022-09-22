@@ -1,2 +1,1 @@
-"# samurai-fighting-game" 
-"# samurai-fighting-game" 
+"# Samurai-Fighting-Game" 
